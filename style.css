@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    border-bottom: black 5px solid;
+    font-size: 24px;
+    margin: 30px;
+}
+.info {
+    border: black solid 1px;
+    border-radius: 30px;
+    padding: 10px;
+}
+footer {
+    background-color: black;
+}
+p {
+    background-color: white;
+    margin: 10px 10px 15px 10px;
+    padding: 5px;
+}
+.skela {
+    margin: 20px;
+    border-left: black dotted 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 64px;
+}
+
